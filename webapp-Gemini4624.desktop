@@ -1,0 +1,20 @@
+[Desktop Entry]
+Version=1.0
+Name=Gemini
+Comment=Web App
+Exec=google-chrome-stable --app="https://gemini.google.com/app" --class=WebApp-Gemini4624 --name=WebApp-Gemini4624 --user-data-dir=/home/sergio85/.local/share/ice/profiles/Gemini4624
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Icon=/home/sergio85/.local/share/ice/icons/Gemini.png
+Categories=GTK;Network;
+MimeType=text/html;text/xml;application/xhtml_xml;
+StartupWMClass=WebApp-Gemini4624
+StartupNotify=true
+X-WebApp-Browser=Chrome
+X-WebApp-URL=https://gemini.google.com/app
+X-WebApp-CustomParameters=
+X-WebApp-Navbar=false
+X-WebApp-PrivateWindow=false
+X-WebApp-Isolated=true
+

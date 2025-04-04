@@ -1,0 +1,20 @@
+[Desktop Entry]
+Version=1.0
+Name=Gather
+Comment=Web App
+Exec=google-chrome-stable --app="https://app.gather.town/app/tLt4aPfFygY7Yjem/Vinta" --class=WebApp-Gather8009 --name=WebApp-Gather8009 --user-data-dir=/home/sergio85/.local/share/ice/profiles/Gather8009
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Icon=/home/sergio85/.local/share/ice/icons/Gather.png
+Categories=GTK;Network;
+MimeType=text/html;text/xml;application/xhtml_xml;
+StartupWMClass=WebApp-Gather8009
+StartupNotify=true
+X-WebApp-Browser=Chrome
+X-WebApp-URL=https://app.gather.town/app/tLt4aPfFygY7Yjem/Vinta
+X-WebApp-CustomParameters=
+X-WebApp-Navbar=false
+X-WebApp-PrivateWindow=false
+X-WebApp-Isolated=true
+

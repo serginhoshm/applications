@@ -1,0 +1,20 @@
+[Desktop Entry]
+Version=1.0
+Name=Whatsapp
+Comment=Web App
+Exec=google-chrome-stable --app="https://web.whatsapp.com/" --class=WebApp-Whatsapp5372 --name=WebApp-Whatsapp5372 --user-data-dir=/home/sergio85/.local/share/ice/profiles/Whatsapp5372
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Icon=/home/sergio85/.local/share/ice/icons/Whatsapp.png
+Categories=GTK;Network;
+MimeType=text/html;text/xml;application/xhtml_xml;
+StartupWMClass=WebApp-Whatsapp5372
+StartupNotify=true
+X-WebApp-Browser=Chrome
+X-WebApp-URL=https://web.whatsapp.com/
+X-WebApp-CustomParameters=
+X-WebApp-Navbar=false
+X-WebApp-PrivateWindow=false
+X-WebApp-Isolated=true
+

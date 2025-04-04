@@ -1,0 +1,19 @@
+[Desktop Entry]
+Version=1.0
+Name=ClickUp
+Comment=Web App
+Exec=google-chrome-stable --app="https://app.clickup.com/" --class=WebApp-ClickUp2761 --name=WebApp-ClickUp2761 --user-data-dir=/home/sergio85/.local/share/ice/profiles/ClickUp2761
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Icon=/home/sergio85/.local/share/ice/icons/ClickUp.png
+Categories=GTK;WebApps;
+MimeType=text/html;text/xml;application/xhtml_xml;
+StartupWMClass=WebApp-ClickUp2761
+StartupNotify=true
+X-WebApp-Browser=Chrome
+X-WebApp-URL=https://app.clickup.com/
+X-WebApp-CustomParameters=
+X-WebApp-Navbar=false
+X-WebApp-PrivateWindow=false
+X-WebApp-Isolated=true
