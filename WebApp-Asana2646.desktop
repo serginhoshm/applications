@@ -1,0 +1,19 @@
+[Desktop Entry]
+Version=1.0
+Name=Asana
+Comment=Web App
+Exec=google-chrome-stable --app="https://app.asana.com/1/15487704751702/project/1203080577200221/list/1208014986173367" --class=WebApp-Asana2646 --name=WebApp-Asana2646 --user-data-dir=/home/sergio85/.local/share/ice/profiles/Asana2646
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Icon=/home/sergio85/Pictures/asana2.svg
+Categories=GTK;WebApps;
+MimeType=text/html;text/xml;application/xhtml_xml;
+StartupWMClass=WebApp-Asana2646
+StartupNotify=true
+X-WebApp-Browser=Chrome
+X-WebApp-URL=https://app.asana.com/1/15487704751702/project/1203080577200221/list/1208014986173367
+X-WebApp-CustomParameters=
+X-WebApp-Navbar=false
+X-WebApp-PrivateWindow=false
+X-WebApp-Isolated=true
